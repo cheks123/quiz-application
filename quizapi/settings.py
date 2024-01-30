@@ -9,6 +9,10 @@ https://docs.djangoproject.com/en/5.0/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/5.0/ref/settings/
 """
+#My superuser dev details
+#Username (leave blank to use 'admin'): chekwubeutomi
+#Email address: chekwubeutomi@quizapp.com
+#Password: django123
 
 from pathlib import Path
 
